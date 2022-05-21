@@ -3,7 +3,7 @@
 I'm a frontend technologist, or something like that. Stuff about me:
 
 - 👩🏼‍💻 I mostly work with Typescript & React, but enjoy branching out into other languages and frameworks, like Elixir, Rust, and Wasm
-- ⭐️ My far my most popular project is the [nuzlocke-generator](https://github.com/EmmaRamirez/nuzlocke-generator), a very nice tool designed for very nice Pokémon games
+- ⭐️ My most popular project is the [nuzlocke-generator](https://github.com/EmmaRamirez/nuzlocke-generator), a very niche tool designed for very niche Pokémon games
 - 💃 In my spare time, I enjoy traveling, making new friends, writing, and art
 
 
