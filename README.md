@@ -6,11 +6,15 @@ I'm a frontend technologist, or something like that. Stuff about me:
 - ⭐️ My most popular project is the [nuzlocke-generator](https://github.com/EmmaRamirez/nuzlocke-generator), a very niche tool designed for very niche Pokémon games
 - 💃 In my spare time, I enjoy traveling, making new friends, writing, and art
 
-
-[![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmaRamirez&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaRamirez&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmmaRamirez&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmaRamirez&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaRamirez&layout=compact&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=EmmaRamirez&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
 
 
 <!--
