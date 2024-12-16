@@ -1,10 +1,10 @@
 ### hi, i'm emma ✨
 
-I'm a web technologist, or something like that. Stuff about me:
+stuff about me
 
 - 👩🏼‍💻 I enjoy working with Typescript, Elixir, Svelte, React, Rust, and Wasm in any order
 - ⭐️ My most popular project is the [nuzlocke-generator](https://github.com/EmmaRamirez/nuzlocke-generator), a very niche tool designed for very niche Pokémon games
-- 💃 In my spare time, I enjoy traveling, making new friends, writing, and art
+- 💃 Outside of tech and startups, I enjoy traveling, making new friends, writing, and art
 
 
 |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmaRamirez&theme=radical&count_private=true&show_icons=true" /></a> | <a href="https://github.com/EmmaRamirez"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaRamirez&layout=compact&theme=radical&langs_count=6&hide=javascript,HTML,CSS" /></a> |
